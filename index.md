@@ -1,5 +1,5 @@
 
-# Deep Learning (CAS machine intelligence, 2020) 
+# Deep Learning (CAS machine intelligence, 2021) 
 
 This course in deep learning focuses on practical aspects of deep learning. We therefore provide jupyter notebooks ([complete overview of all notebooks](https://github.com/tensorchiefs/dl_course_2020/tree/master/notebooks) used in the course).
 
@@ -34,14 +34,14 @@ The course is split in 8 sessions, each 4 lectures long.
 
 | Day  |      Date    |      Time    |
 |:--------:|:--------------|:---------------|
-| 1        | 18.02.2020|13:30-17:00
-| 2        | 25.02.2020|13:30-17:00
-| 3        | 03.03.2020|13:30-17:00
-| 4        | 10.03.2020|13:30-17:00
-| 5        | 17.03.2020|13:30-17:00
-| 6        | 24.03.2020|09:00-12:30
-| 7        | 31.03.2020|13:30-17:00
-| 8        | 07.04.2020|09:00-12:30
+| 1        | 23.02.2021|9:00-12:30
+| 2        | 02.03.2021|9:00-12:30
+| 3        | 09.03.2021|9:00-12:30
+| 4        | 16.03.2021|9:00-12:30
+| 5        | 23.03.2021|9:00-12:30
+| 6        | 30.03.2021|09:00-12:30
+| 7        | 06.04.2021|9:00-12:30
+| 8        | 13.04.2021|09:00-12:30
 
 ## Syllabus (might change during course)
 
