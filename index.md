@@ -1,5 +1,5 @@
 
-# Deep Learning (CAS machine intelligence, 2021) 
+# Deep Learning (CAS machine intelligence, 2021  ) 
 
 This course in deep learning focuses on practical aspects of deep learning. We therefore provide jupyter notebooks ([complete overview of all notebooks](https://github.com/tensorchiefs/dl_course_2020/tree/master/notebooks) used in the course). 
 
