@@ -28,8 +28,8 @@ Directly typing comands can be done in the Anaconda Prompt window which can be o
 
 * Install the following required packages
 	```
-	pip install tensorflow==2.0.0
-	pip install tensorflow-probability==0.8.0
+	pip install tensorflow
+	pip install tensorflow-probability #Needed at the end of the course
 	pip install jupyter
 	pip install matplotlib
 	pip install scipy
