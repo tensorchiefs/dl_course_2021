@@ -3,7 +3,7 @@
 
 This course in deep learning focuses on practical aspects of deep learning. We therefore provide jupyter notebooks ([complete overview of all notebooks](https://github.com/tensorchiefs/dl_course_2020/tree/master/notebooks) used in the course). 
 
-For doing the hands-on part on your own computer you can either install anaconda ([details and installation instruction](anaconda.md)) or use the provided a docker container ([details and installation instruction](docker.md)).
+For doing the hands-on part we recommend to use colab (you might need a google account) an internet connections is needed. If you want to do it without internet connection on your own computer you can either install anaconda ([details and installation instruction](anaconda.md)) or use the provided a docker container ([details and installation instruction](docker.md)).
 
 To easily follow the course please make sure that you are familiar with the some [basic math and python skills](prerequistites.md). 
 
