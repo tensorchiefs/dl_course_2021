@@ -12,9 +12,9 @@ You can join together in small groups and choose a topic for your DL project. Yo
 
 If you need free GPU resources, we might want to follow the [instructions how to use google colab](co.md). Help for preparing a hdf5 file from your images you can be found in the <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/data_prep.ipynb"> example Notebook.</a> 
 
-Examples for projects from the DL course 2018 and 2019 can be found [here](projects.md).
+Examples for projects from the DL course 2018 and 2019 can be found [here](projects.md) from [2020](https://docs.google.com/spreadsheets/d/1NXinRQMifg_QNQs1fyn5HeiZNRnTGnIy1W7-ij-jQhg/edit?usp=sharing)
 
-**Fill in the Title and the Topic of your Projects until 24.03.2020 [here](https://docs.google.com/spreadsheets/d/18VFrPbKq3YSOg8Ebc1q1wGgkfgaWl7IkcCClGEDGj6Q/edit#gid=0)**
+**Fill in the Title and the Topic of your Projects until 30.03.2021 [here](https://docs.google.com/spreadsheets/d/18VFrPbKq3YSOg8Ebc1q1wGgkfgaWl7IkcCClGEDGj6Q/edit#gid=0)**
 
 ## Other resources 
 We took inspiration (and sometimes slides / figures) from the following resources.
